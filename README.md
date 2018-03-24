@@ -54,7 +54,7 @@ The final animation can be seen here:
 
 https://www.youtube.com/watch?v=IlA68oDsOjg
 
-I then took the model into Substance Painter for texturing. Since the bird would be a simple prop in the game, the texturing was kept at a very simple level.
+I then took the model into Substance Painter for texturing. Since the bird would just be a prop in the game, the texturing was kept at a very simple level.
 
 I baked the textures using the high poly model to have a little more detail on the textures. I then added a mask with color selection in order to use the ID map to paint the different areas of the bird.
 
