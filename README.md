@@ -56,7 +56,7 @@ https://www.youtube.com/watch?v=IlA68oDsOjg
 
 I then took the model into Substance Painter for texturing. Since the bird would just be a prop in the game, the texturing was kept at a very simple level.
 
-I baked the textures using the high poly model to have a little more detail on the textures. I then added a mask with color selection in order to use the ID map to paint the different areas of the bird.
+I baked the textures using the high poly model to have a little more detail on them. I then added a mask with color selection in order to use the ID map to paint the different areas of the bird.
 
 ![texture](https://user-images.githubusercontent.com/32599151/37866768-0cc0f916-2f87-11e8-9051-1f9e6c5e1495.png)
 
