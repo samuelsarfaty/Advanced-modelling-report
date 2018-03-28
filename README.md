@@ -70,3 +70,14 @@ The final result can be seen here:
 
 https://www.youtube.com/watch?v=lxUaIiLs8zY
 
+## 2. First attempt
+
+For my first attempt to create a character, I made the following sculpt:
+
+![zbrush](https://user-images.githubusercontent.com/32599151/38055165-e16d0abe-32d0-11e8-9eec-9f930f775c22.png)
+
+Since this was my first time using Zbrush, I still had to get acquainted with the tools and techniques, which meant that the sculpt took a long time to make.
+
+Afterwards, I brought the a remeshed version of the sculpt into Blender for retopology. However, using Blender for retopology was a mistake. The technique was to do something similar to quad draw in Maya but Blender doesn't have a dedicated tool for retopology like Maya does. For this reason, I gave up on the model half way through the retopology process.
+
+![retopo1](https://user-images.githubusercontent.com/32599151/38055365-6c2825f8-32d1-11e8-9fdb-cb7d39a3d008.png)
